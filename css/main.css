@@ -1,0 +1,101 @@
+body{
+	font-family: Arial, sans-serif;
+	color: #444;
+}
+
+.homepage{
+	padding-top: 60px;
+	text-align: center;
+	font-size: 1.2em;
+	color: #999;
+}
+
+.homepage h1{
+	display: none;
+}
+
+.homepage h2{
+	color: #666;
+	font-size: 1.3em;
+	line-height: 0.5em;
+}
+
+.biglogo{
+	background: url(/assets/logo.svg) no-repeat;
+	width: 600px;
+	height: 320px;
+	margin: 0 auto;
+}
+
+.header{
+	width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.logo{
+	background: url(/assets/logo.svg) no-repeat;
+	width: 250px;
+	height: 120px;
+	margin: 0 auto;
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+.social-icons{
+	display: inline-block;
+	vertical-align: bottom;
+	float: right;
+	margin-top: 20px;
+}
+
+.page{
+	width: 960px;
+	margin: 0 auto;
+}
+
+a{
+	color: #333;
+	border-bottom: 1px dotted #333;
+	text-decoration: none;
+}
+
+.footer{
+	padding: 4em 0 1em;
+	text-align: center;
+	font-size: 0.85em;
+	color: #AAA;
+}
+
+.thedate{
+	font-size: 2em;
+	color: #D870AD;
+}
+
+.icon{
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #AAA;
+	margin: 0 5px;
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+	border-radius: 2px;
+	border: none;
+}
+
+.icon.fb{
+	background-image: url(/assets/iconfb.png);
+	background-color: #3B5998;
+}
+
+.icon.tw{
+	background-image: url(/assets/icontw.png);
+	background-color: #00ACED;
+}
+
+.icon.gp{
+	background-image: url(/assets/icongp.png);
+	background-color: #DD4B39;
+}
