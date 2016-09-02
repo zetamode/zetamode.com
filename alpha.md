@@ -4,7 +4,15 @@ title: Invitation Alpha
 permalink: /alpha
 ---
 
-## Ouverture de la version Alpha
+## Fin de la version alpha
+
+**Important:** nous avons mis fin à la version Alpha de ZetaMode afin de nous concentrer sur la campagne de financement.
+
+Pour rejoindre le jeu il vous faudra participer à la campagne ou rejoindre la liste d'attente qui sera mise en place juste après.
+
+Les informations sur l'ancienne version Alpha restent disponibles ci-dessous à titre informatif.
+
+## Message original: Ouverture de la version Alpha
 
 Nous sommes heureux de vous inviter à rejoindre la version Alpha de ZetaMode !
 
@@ -34,11 +42,4 @@ Ces règles peuvent sembler un peu contraignantes, mais il est nécessaire d'êt
 
 ### Participer
 
-Vous souhaitez participer ? Voici les étapes à suivre:
-
-1. Vous avez lu les informations et conditions ci-dessus et vous les acceptez
-1. Choisissez le pseudo que vous souhaitez utiliser sur ZetaMode
-1. Envoyez une demande par email à zetamode\*at\*gmail.com en précisant le pseudo que vous souhaitez
-1. **Donnez-nous des informations pour vous reconnaître** (Par exemple votre pseudo du jeu depuis lequel nous vous avons invité(e))
-1. L'adresse email utilisée pour nous contacter sera liée à votre compte ZetaMode. Si vous souhaitez lier une autre adresse indiquez-la dans votre message
-1. Attentez patiemment la réponse. Votre mot de passe ainsi que les instructions pour vous connecter vous seront fournis
+*Comme mentionné en début de page, il n'est plus possible de rejoindre le programme Alpha*
