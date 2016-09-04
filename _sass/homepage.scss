@@ -82,7 +82,7 @@ header {
 					font-weight: bold;
 					font-size: 1.3em;
 					padding: 30px 20px;
-
+					
 					&:hover {
 						text-decoration: underline;
 					}
@@ -90,10 +90,43 @@ header {
 			}
 		}
 	}
+	
+	@media (max-width: $screen-lg) {
+		.container ul li a {
+			font-size: 1em;
+			padding: 30px 10px;
+		}
+	}
+
+	@media (max-width: $screen-md) {
+		position: static;
+		border-bottom: 1px dashed white;
+
+		.container {
+			display: block;
+			
+			.brand .logo {
+				margin: 0 auto;
+			}
+			
+			ul  {
+				text-align: center;
+
+				li a {
+					padding: 10px;
+				}
+			}
+		}
+	}
+
 }
 
 section {
 	min-height: 500px;
+
+	@media (max-width: $screen-md) {
+		min-height: 0;
+	}
 
 	h2 {
 		font-family: 'Montserrat', sans-serif;
@@ -113,6 +146,10 @@ section {
 		color: white;
 		font-weight: bold;
 		padding-top: 130px;
+
+		@media (max-width: $screen-md) {
+			padding-top: 50px;
+		}
 
 		text-align: center;
 
@@ -168,6 +205,10 @@ section {
 		font-size: 1.5em;
 		margin: 100px 0;
 		padding: 120px 0;
+	}
+
+	@media (max-width: $screen-md) {
+		display: none;
 	}
 }
 
